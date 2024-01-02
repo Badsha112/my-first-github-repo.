@@ -1,4 +1,14 @@
 .box{
   text-align: center;
   background-color: aqua;
+  margin-bottom: 10px;
+}
+.box2{
+  text-align: center;
+  background-color: aqua;
+  margin-bottom: 10px;
+}
+.box3{
+  text-align: center;
+  background-color: aqua;
 }
